@@ -14,7 +14,7 @@ export default function Home() {
       <p
         className='text-gray-600 hover:text-green-900 hover:font-bold mt-4 text-xl'
       >
-        This is a test of the AWS CodePipeline service.
+        I'm trying something new. This is a test of the AWS CodePipeline service.
       </p>
       <div
         className="flex flex-row justify-center items-center mt-4"
