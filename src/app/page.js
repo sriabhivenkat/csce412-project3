@@ -14,7 +14,12 @@ export default function Home() {
       <p
         className='text-gray-600 hover:text-green-900 hover:font-bold mt-4 text-xl'
       >
-        I'm trying something new and crazy. This is a final test of the AWS CodePipeline service.
+        This is a final test of the AWS CodePipeline service.
+      </p>
+      <p
+        className='text-gray-600 hover:text-green-900 hover:font-bold mt-4 text-xl'
+      >
+        I want to try to deploy to prod without having to invalidate the cache every time.
       </p>
       <div
         className="flex flex-row justify-center items-center mt-4"
